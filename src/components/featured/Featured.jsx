@@ -1,4 +1,4 @@
-import React, { Component }  from 'react';
+import React from 'react';
 import "./featured.scss";
 import MoreVertIcon from "@mui/icons-material/MoreVert";
 import { CircularProgressbar } from "react-circular-progressbar";
